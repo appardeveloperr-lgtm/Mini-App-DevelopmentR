@@ -341,7 +341,7 @@
           <div class="contact-info reveal">
             <h3>Contact Information</h3><p>We'd be happy to hear about your project. Reach out using any of the contact details below.</p>
             <div class="contact-line"><i class="fa-regular fa-envelope"></i><div><small>Primary Email</small><a href="mailto:miniappdevelopmentr@miniappdevelopmentr.co.in">miniappdevelopmentr@miniappdevelopmentr.co.in</a></div></div>
-            <div class="contact-line"><i class="fa-solid fa-envelope-open-text"></i><div><small>Office Email</small><a href="mailto:miniappdevelopmentr@voicecallingservice.co.in">miniappdevelopmentr@voicecallingservice.co.in</a></div></div>
+            <div class="contact-line"><i class="fa-solid fa-envelope-open-text"></i><div><small>Office Email</small><a href="mailto:miniappdevelopmentr@miniappdevelopmentr.co.in">miniappdevelopmentr@miniappdevelopmentr.co.in</a></div></div>
             <div class="contact-line"><i class="fa-solid fa-phone"></i><div><small>Phone</small><a href="tel:+9176437923469">+91 76437923469</a></div></div>
             <div class="contact-line"><i class="fa-brands fa-whatsapp"></i><div><small>WhatsApp</small><a href="https://wa.me/9176437923469" target="_blank" rel="noopener noreferrer">Chat with us on WhatsApp</a></div></div>
             <div class="contact-line"><i class="fa-solid fa-location-dot"></i><div><small>Business Address</small><span>Sowguri Chapori, Gorumura Road, Ujani Dhamaji Lower Primary School New, Sawguri Chapori, Golaghat, Assam – 785614, India.</span></div></div>
